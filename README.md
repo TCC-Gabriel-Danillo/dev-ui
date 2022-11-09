@@ -13,7 +13,7 @@ O DevUI trata-se de uma biblioteca Frontend desenvolvida em **React Native**, na
 ...
   "dependencies": {
     ...,
-    "dev-ui":"file:../<Caminho para DevUI>/DevUI"
+    "dev-ui":"file:../<Caminho para DevUI>/dev-ui"
   },
 ...
 ```
